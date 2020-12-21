@@ -1,0 +1,12 @@
+.content {
+  grid-area: c;
+  background-color: arcticblue;
+}
+
+.item {
+  color: salmon;
+}
+
+.item.active{
+  color: gold;
+}
